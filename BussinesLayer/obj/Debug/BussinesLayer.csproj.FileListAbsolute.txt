@@ -1,0 +1,16 @@
+C:\Users\Bryan\documents\visual studio 2015\Projects\Proyecto_Prueba\BussinesLayer\bin\Debug\BussinesLayer.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\Proyecto_Prueba\BussinesLayer\bin\Debug\BussinesLayer.pdb
+C:\Users\Bryan\documents\visual studio 2015\Projects\Proyecto_Prueba\BussinesLayer\bin\Debug\DataModel.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\Proyecto_Prueba\BussinesLayer\bin\Debug\DataModel.pdb
+C:\Users\Bryan\documents\visual studio 2015\Projects\Proyecto_Prueba\BussinesLayer\obj\Debug\BussinesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\documents\visual studio 2015\Projects\Proyecto_Prueba\BussinesLayer\obj\Debug\BussinesLayer.dll
+C:\Users\Bryan\documents\visual studio 2015\Projects\Proyecto_Prueba\BussinesLayer\obj\Debug\BussinesLayer.pdb
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\Proyecto_Prueba\BussinesLayer\bin\Debug\BussinesLayer.dll
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\Proyecto_Prueba\BussinesLayer\bin\Debug\BussinesLayer.pdb
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\Proyecto_Prueba\BussinesLayer\bin\Debug\DataModel.dll
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\Proyecto_Prueba\BussinesLayer\bin\Debug\DataModel.pdb
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\Proyecto_Prueba\BussinesLayer\bin\Debug\DataModel.dll.config
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\Proyecto_Prueba\BussinesLayer\obj\Debug\BussinesLayer.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\Proyecto_Prueba\BussinesLayer\obj\Debug\BussinesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\Proyecto_Prueba\BussinesLayer\obj\Debug\BussinesLayer.dll
+C:\Users\Bryan\Documents\Visual Studio 2017\Projects\Proyecto_Prueba\BussinesLayer\obj\Debug\BussinesLayer.pdb
